@@ -2,8 +2,9 @@
     font-family:Roboto;
     color: yellow;
     font-size: 46px;
+    padding-top: 20%;
   }
-html,body{height:100%;margin:0;padding:0;background-image: url("https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616__340.jpg");}
+html,body{height:100%;margin:0;padding:0;}
 ul,li{text-indent:0;text-decoration:none;margin:0;padding:0}
 img{border:0}
 body{background-color:#000;color:#999;font:100%/18px helvetica, arial, sans-serif}
